@@ -73,3 +73,9 @@
   background-color: #333;
 }
 
+
+.actions {
+  display: flex;
+  gap: 15px;
+}
+
